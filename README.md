@@ -45,3 +45,7 @@ Train models using features extracted from both phishing and legitimate websites
 #### Database Comparison:
 
 Compare the URL against known phishing databases like PhishTank and OpenPhish.
+
+
+## Train accuracy: 0.846875
+## Test accuaracy: 0.8505
